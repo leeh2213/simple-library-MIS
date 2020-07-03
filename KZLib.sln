@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KZLib", "KZLib.vcxproj", "{037C53D0-F880-46D4-A21B-B27C2BF3654E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037C53D0-F880-46D4-A21B-B27C2BF3654E}.Debug|x86.ActiveCfg = Debug|Win32
+		{037C53D0-F880-46D4-A21B-B27C2BF3654E}.Debug|x86.Build.0 = Debug|Win32
+		{037C53D0-F880-46D4-A21B-B27C2BF3654E}.Release|x86.ActiveCfg = Release|Win32
+		{037C53D0-F880-46D4-A21B-B27C2BF3654E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B9E078-B556-4788-835F-228E0E63EB01}
+	EndGlobalSection
+EndGlobal
